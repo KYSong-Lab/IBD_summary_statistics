@@ -22,4 +22,28 @@ Total sample size: 1,574 UC cases and 4,419 healthy controls
 
 Number of SNPs: 5,890,884
 
+# Desrciption of headers in the summary statistics
 
+1. CHR: chromosome
+
+2. SNP: single nucleotide polymorphism
+
+3. BP: Position of SNP (hg19)
+
+4. allele_A: non-effect allele
+
+5. allele_B: effect allele
+
+6. P: P value
+
+7. FREQ: frequency of effect allele in total samples
+
+8. BETA: effect size
+
+9. SE: standard error
+
+10. Q: Q value
+
+11. P_heterogeneity: P value of heterogeneity in the meta-analysis
+
+12. I2: value of I-squared
